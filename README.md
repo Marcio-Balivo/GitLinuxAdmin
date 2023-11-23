@@ -1,2 +1,2 @@
 # GitLinuxAdmin
-Guarda os arquivos práticos dos laboratórios de GIT do curso Linux Admin.
+Guarda os arquivos práticos dos laboratórios do curso Linux Admin.
